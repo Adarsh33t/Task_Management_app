@@ -9,8 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -67,7 +65,7 @@ cd frontend
 
 
 
-Usage
+## Usage
 1.Start the Django development server:
 
 ```bash
@@ -90,7 +88,7 @@ The frontend will be available at http://localhost:3000/.
 npm install
 ```
 
-Technologies Used
+## Technologies Used
 Django: A Python web framework for building the backend.
 
 React: A JavaScript library for building the frontend user interface.
