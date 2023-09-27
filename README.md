@@ -19,7 +19,6 @@ The Task Management App is a web application built with Django and React that he
 ## Features
 - **Task Creation**: Easily create tasks with titles, descriptions, deadlines, and priority levels.
 - **Task Lists**: Organize tasks into custom lists or categories.
-- **Task Filtering**: Filter tasks by priority, status, or date.
 - **Task Updates**: Edit and update task details as needed.
 - **Task Deletion**: Delete completed or unnecessary tasks.
 - **Responsive Design**: The app is responsive and works seamlessly on various devices.
