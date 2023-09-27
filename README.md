@@ -45,14 +45,17 @@ git clone https://github.com/yourusername/task-management-app.git
 
 2.Navigate to the project directory:
 
+```bash
 cd task-management-app
 
 3.Install Python dependencies:
 
+```bash
 pip install -r requirements.txt
 
 4.Navigate to the frontend directory and install React dependencies:
 
+```bash
 cd frontend
 
 
@@ -65,8 +68,9 @@ The backend will be available at http://localhost:8000/.
 
 2.In a separate terminal, start the React development server from the frontend directory:
 
-
+```bash
 npm start
+
 The frontend will be available at http://localhost:3000/.
 
 3 .Access the app in your web browser and register/login to start using it.
