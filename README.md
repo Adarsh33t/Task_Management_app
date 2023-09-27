@@ -92,15 +92,26 @@ npm install
 
 Technologies Used
 Django: A Python web framework for building the backend.
+
 React: A JavaScript library for building the frontend user interface.
+
 React Router: For handling client-side routing.
+
 Django REST framework: To create a RESTful API for the frontend.
+
 SQLite: A simple and lightweight database for development.
+
 Axios: A promise-based HTTP client for making API requests.
+
 JWT Authentication: JSON Web Tokens for secure user authentication.
+
 Material-UI: A popular React UI framework for building the user interface.
+
 Webpack: For bundling and managing frontend assets.
+
 Babel: To transpile modern JavaScript to a compatible version.
+
 ESLint: For code quality and style checks.
+
 Git: Version control for collaborative development.
 Contributing
