@@ -101,8 +101,6 @@ SQLite: A simple and lightweight database for development.
 
 Axios: A promise-based HTTP client for making API requests.
 
-JWT Authentication: JSON Web Tokens for secure user authentication.
-
 Material-UI: A popular React UI framework for building the user interface.
 
 Webpack: For bundling and managing frontend assets.
